@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Gabriele Baglioni</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=Green&width=380&font=bold&height=85&lines=Nice+To+Meet+You+...;I'm+a+web+developer+from+Italy;I+hope+you+will+find...;...my+profile+interesting!&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=Green&width=380&font=bold&height=85&lines=Hi,+welcome+to+my+Code-World!;I'm+a+web+developer+from+Italy;Be+free+to+ask+me+everythings;❤️&center=true"></a>
 
 </p>
 
