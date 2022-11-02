@@ -33,3 +33,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielebaglioni&show_icons=true&locale=en" alt="gabrielebaglioni" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielebaglioni&" alt="gabrielebaglioni" /></p>
+<h3 align="left">Exaple of work:</h3>
+<p align="left">
+   <img width="400" height="200" style="border-radius: 50%; border: 1px solid black;" alt="Schermata 2022-11-02 alle 17 51 36" src="https://user-images.githubusercontent.com/97400054/199552647-80452eb0-5d85-4d0f-8568-e0bbee0c4d31.png">
+
+</p>
