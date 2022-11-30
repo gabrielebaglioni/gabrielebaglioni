@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielebaglioni" alt="gabrielebaglioni" /></a> </p>
 
-- 🔭  I’m currently learning about geometric programming 🌱;
+- 🔭  I’m currently learning about blockchain developing 🌱 ⛓;
 
 - 🤝 I’m looking for help with **improving my abilities as a developer!**
 
