@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **improving my abilities as a developer!**
 
-- 💬 Ask me about **JS, C#, .Net, OOP**
+- 💬 Ask me about **JS, C#, .Net, OOP*,DDD*
 
 - 📫 How to reach me **gabrielebaglioni55@gmail.com**
 
